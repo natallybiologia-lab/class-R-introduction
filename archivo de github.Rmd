@@ -1,0 +1,52 @@
+---
+title: "practica uno"
+author: "Natally S. Vidal-Figueroa"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    higlight: github
+---
+
+# practica 1
+
+Hoy la clase intentare no morir en el intento.<br> espero tener buen día.
+termine con un poco de ***gripa*** pero esto viva _jejeje_
+
+## practica de headers
+
+### Practica de titulos
+
+#### comida que me gusta
+
+- chocolates con queso
+- queso
+- galletas con queso
+  - limon 
+  
+  # link
+  [articulo de bacteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC5565159/)
+  
+```{r}
+knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto Rico/datos de R/Captura de pantalla 2023-11-20 112219.png")
+```
+
+
+
+|name| age|city|
+|----|----:|:----:|
+|Alice|25|quilla|
+bob|12|maya|
+
+
+`x=5` esto es un inline code 
+
+#chunck
+
+```{r}
+mode <- lm(mpg ~ wt, data = mtcars)
+summary(mode)
+```
+#cambiar algo
+
+
