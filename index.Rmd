@@ -1,5 +1,5 @@
 ---
-title: "practica uno"
+title: "Introducción a R"
 author: "Natally S. Vidal-Figueroa"
 date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
 output:
@@ -8,10 +8,17 @@ output:
     higlight: github
 ---
 
-# practica 1
+  
+```{r, echo = F}
+knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto Rico/datos de R/Captura de pantalla 2023-11-20 112219.png")
+```
 
-Hoy la clase intentare no morir en el intento.<br> espero tener buen día.
-termine con un poco de ***gripa*** pero esto viva _jejeje_
+
+## _Sobre mi_:
+
+ Natally Steffany Vidal Figueroa es investigadora en microbiología y biotecnología ambiental, con interés en la degradación de plásticos, la diversidad microbiana y la bioprospección de organismos con potencial biotecnológico. Su trabajo integra técnicas microbiológicas, espectroscópicas y de ingeniería genética para el estudio de interacciones microbio-ambiente y el desarrollo de soluciones sostenibles orientadas a la conservación de ecosistemas costeros y marinos.
+
+
 
 ## practica de headers
 
@@ -26,10 +33,6 @@ termine con un poco de ***gripa*** pero esto viva _jejeje_
   
   # link
   [articulo de bacteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC5565159/)
-  
-```{r}
-knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto Rico/datos de R/Captura de pantalla 2023-11-20 112219.png")
-```
 
 
 
