@@ -8,11 +8,10 @@ output:
     higlight: github
 ---
 
-  
-```{r, echo = F}
-knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto Rico/datos de R/Captura de pantalla 2023-11-20 112219.png")
-```
 
+```{r, echo=FALSE}
+knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto Rico/datos de R/imagen poster.jpg")
+```
 
 ## _Sobre mi_:
 
@@ -22,7 +21,7 @@ knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto 
 
 
 
-### Practica de titulos
+### Proyectos de clase
 
 ### Comidas que me gusta
 
