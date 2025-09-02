@@ -20,21 +20,20 @@ knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto 
 
 
 
-## practica de headers
+
 
 ### Practica de titulos
 
-#### comida que me gusta
+### Comidas que me gusta
 
-- chocolates con queso
-- queso
-- galletas con queso
-  - limon 
-  
-  # link
+- Queso y más queso
+
+
+## Practica de link:
   [articulo de bacteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC5565159/)
 
 
+##Practica de tabla:
 
 |name| age|city|
 |----|----:|:----:|
@@ -52,4 +51,5 @@ summary(mode)
 ```
 #cambiar algo
 
+modif
 
