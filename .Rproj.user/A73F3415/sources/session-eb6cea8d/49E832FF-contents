@@ -9,11 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r}
 citation()
@@ -24,10 +19,69 @@ citation()
 
 
 
+## Practica de link:
+  [articulo de bacteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC5565159/)
+
+
+##Practica de tabla:
+
+|name| age|city|
+|----|----:|:----:|
+|Alice|25|quilla|
+bob|12|maya|
+
+
 
 
 ```{r}
-install.packages("ggplot2")
-install.packages("dplyr")
+#install.packages("ggplot2")
+#install.packages("dplyr")
+```
+
+```{r, message=FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+```{r}
+citation(ggplot)
+```
+
+
+```{r}
+?lm
+```
+
+```{r}
+1==2
+```
+
+```{r}
+"Diana" == "diana"
+```
+
+```{r}
+5!=6
+```
+
+```{r}
+a<- 45
+a
+
+Naty <- 28
+Naty
+```
+
+```{r}
+C <- "ya casi nos vamos, pero coman dulce"
+c
+```
+
+```{r}
+
+```
+
+
+```{r}
 ```
 
