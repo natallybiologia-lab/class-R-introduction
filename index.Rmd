@@ -20,7 +20,7 @@ knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto 
 
 ### R tutorials
 
- + [Homework 1](https://class-R-introduction\homework1.html")
+[Homework 1](tareas/homework1.html")
 
 
 
