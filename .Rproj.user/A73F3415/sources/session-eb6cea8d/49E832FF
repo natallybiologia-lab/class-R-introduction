@@ -3,9 +3,9 @@
     "path": "C:/Users/Natally Vidal/OneDrive - University of Puerto Rico/datos de R/class-R-introduction/Practicas de clase/practica de tiping.Rmd",
     "project_path": "Practicas de clase/practica de tiping.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2298469109",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1757013812051.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -18,11 +18,11 @@
         "last_setup_crc32": "eb6cea8dbb338d19"
     },
     "folds": "0|3|5|0|\n7|27|9|0|\n",
-    "lastKnownWriteTime": 1757015992,
+    "lastKnownWriteTime": 1757021196,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1757020020075,
+    "last_content_update": 1757021196883,
     "read_only": false,
     "read_only_alternatives": []
 }
