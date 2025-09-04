@@ -22,14 +22,6 @@ knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto 
 
 [Homework 1]("tareas/homework1.html")
 
-`x=5` esto es un inline code 
-
-
-
-```{r}
-mode <- lm(mpg ~ wt, data = mtcars)
-summary(mode)
-```
 
 
 
