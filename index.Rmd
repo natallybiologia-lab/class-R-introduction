@@ -18,6 +18,7 @@ knitr::include_graphics("C:/Users/Natally Vidal/OneDrive - University of Puerto 
  Natally Steffany Vidal Figueroa es investigadora en microbiología y biotecnología ambiental, con interés en la degradación de plásticos, la diversidad microbiana y la bioprospección de organismos con potencial biotecnológico. Su trabajo integra técnicas microbiológicas, espectroscópicas y de ingeniería genética para el estudio de interacciones microbio-ambiente y el desarrollo de soluciones sostenibles orientadas a la conservación de ecosistemas costeros y marinos.
 
 
+
 ### R tutorials
 
 [Homework 1]("tareas/homework1.html")
